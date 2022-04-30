@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabianafernandes2002
 - 👀 I’m interested in learn developing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning JAVA, HTML/CSS/ BOOTSTRAP, JS, REACT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
